@@ -49,5 +49,5 @@
 <p>
 Bu proje açık kaynaklıdır ve katkılara açıktır. Herhangi bir önemli değişiklik yapmadan önce lütfen bir tartışma başlatmak için bir konu (issue) açın.</p>
 
-<a href="">Canlı Önizleme</a>
+<a href="https://youtube-clone011.netlify.app">Canlı Önizleme</a><br/>
 <img src="/src/assets/screen.gif" alt="">
